@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+}
+main {
+    background-color: rgb(255, 255, 255);
+}
+header {
+    background-color: black;
+    width: 250px;
+    height: 100vh;
+}
+a {
+    text-decoration: none;
+    color: rgb(34, 0, 255);
+}
+#imagem-perfil {
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    height: 150px;
+    width: 140px;
+    border-radius: 50%;
+    border: 1px solid rgb(34, 0, 255);
+}
+#atalhos1 {
+    text-decoration: none;
+    position: relative;
+    top: 330px;
+    left: 100px;
+    color: rgb(255, 255, 255);
+}
+#atalhos2 {
+    position: relative;
+    top: 350px;
+    left: 70px;
+    text-decoration: none;
+    color: gray;
+}
+#atalhos3 {
+    position: relative;
+    top: 370px;
+    left: 90px;
+    text-decoration: none;
+    color: gray;
+}
+
+#atalhos3{
+    left: 65px;
+}
+#atalhos2{
+    left: 45px;
+}
+#atalhos1 {
+    left: 80px;
+}
+
+h1 {
+    position: absolute;
+    color:black;
+    top: 30%;
+    left: 22%;
+    font-size: 48px;
+    font-family: 'Cinzel', serif;
+}
+strong {
+    color: rgb(34, 0, 255);
+}
+h2 {
+    position: absolute;
+    color:black;
+    top: 45%;
+    left: 22%;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    position: absolute;
+    color:black;
+    top: 55%;
+    left: 22%;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ol {
+    list-style: lower-alpha;
+}
+li {
+    margin-top: 5px;
+    font-family: 'Cinzel', serif;
+}
+#linkedin {
+    position: absolute;
+    top: 400px;
+    left: 250px;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(34, 0, 255);
+    border-radius: 50%;
+}
+
+#github {
+    position: absolute;
+    top: 400px;
+    left:330px;
+    height: 50px;
+    width: 50px;
+    background-color:rgb(34, 0, 255);
+    border-radius: 50%;
+}
+
+#objetivos {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    font-size: 28px;
+}
+
+#conhecimentos {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    font-size: 28px;
+}
+
+
+p {
+    font-size: 18px;
+    left: 10px;
+}
+
+#imagem-perfil {
+    left: 29px;
+}
+
+
+
+header {
+    position: absolute;
+    width: 200px;
+}
+h1 {
+    font-size: 60px;
+    top: 200px;
+    left: 250px;
+    
+    
+}
+
+h2{
+    font-size: 20px;
+    top: 280px;
+    left: 250px;
+}
+
+h3{
+    font-size: 15px;
+    top: 350px;
+    left: 250px;
+}
